@@ -181,7 +181,7 @@ export default function Home() {
                 {winners.length === 0 ? (
                   <div className="bg-black/40 backdrop-blur-md border border-white/20 p-8 text-center">
                     <p className="text-white/60 text-lg font-semibold">
-                      No winners yet...
+                      No stimmy yet...
                     </p>
                   </div>
                 ) : (
